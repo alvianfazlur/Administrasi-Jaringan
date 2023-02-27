@@ -9,6 +9,7 @@ Cloud security adalah kumpulan metode dan teknologi yang digunakan untuk melindu
 8.	Pemulihan Bencana: Pemulihan bencana adalah kemampuan untuk memulihkan sistem dan data setelah kegagalan sistem atau bencana alam. Hal ini melibatkan perencanaan pemulihan bencana, backup data, dan simulasi pemulihan bencana.
 9.	Keamanan Komputasi Awan: Keamanan komputasi awan mencakup aspek-aspek lain dari keamanan seperti keamanan API, keamanan kontainer, keamanan data streaming, dan manajemen identitas dan akses.
 Secara keseluruhan, keamanan cloud adalah topik penting yang memerlukan pemahaman teknis yang baik serta implementasi praktik terbaik untuk melindungi data dan privasi pelanggan, dan memastikan kelangsungan bisnis yang stabil dan aman.
+
 Tren terkini mengenai cloud security:
 1.	Peningkatan Keamanan Multi-Faktor: Keamanan multi-faktor adalah proses pengamanan yang melibatkan beberapa lapisan proteksi, seperti pengenalan sidik jari, verifikasi dua faktor, dan token keamanan. Peningkatan keamanan multi-faktor terus menjadi tren penting di cloud security.
 2.	Keamanan Container: Container adalah teknologi pengemasan aplikasi yang memungkinkan aplikasi dijalankan pada platform apapun. Keamanan container menjadi fokus karena tuntutan pengguna untuk mempercepat pengembangan aplikasi dan deployment.
