@@ -24,6 +24,8 @@ TES
 -	Periksa Masalah Tata Kelola; yakinkan kembali standar praktik terbaik.
 -	Periksa Masalah Kepatuhan; hindari sanksi dan hukuman.
 -	Periksa Integritas Data, Retensi, dan Pembuangan; mencegah kebocoran dan kerugian.
+-	
 Secara keseluruhan, tren cloud security terus berkembang seiring dengan kemajuan teknologi dan kebutuhan pengguna untuk mempertahankan privasi dan keamanan data. Penting bagi perusahaan untuk mengikuti tren ini dan menerapkan praktik keamanan terbaik untuk melindungi data dan aplikasi mereka di cloud.
+
 Summary dalam webinar : 
 This discussion conveys the security concerns associated with cloud services. It was noted that cybercriminals have taken advantage of the vulnerabilities within the shared ecosystem and the lack of effective security controls, leading to misuse of the platform. Hackers can illegally access the confidential information of other tenancies residing on the same cloud infrastructure. Therefore, businesses are advised to conduct ongoing risk assessment to mitigate potential threats to their sensitive data. Furthermore, cloud security providers must improve security protection through the implementation of more advanced and sophisticated proactive security measures to address these challenges.
