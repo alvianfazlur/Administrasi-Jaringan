@@ -17,6 +17,7 @@ Tren terkini mengenai cloud security:
 4.	Keamanan Kecerdasan Buatan: Teknologi kecerdasan buatan (AI) digunakan dalam cloud security untuk mendeteksi dan mencegah serangan siber. AI juga membantu dalam pemantauan keamanan real-time, analisis risiko, dan manajemen keamanan.
 5.	Keamanan Edge Computing: Edge computing adalah teknologi yang memproses data secara lokal pada perangkat edge, seperti sensor dan perangkat IoT. Keamanan edge computing sangat penting karena data yang diproses di edge harus terlindungi.
 6.	Kepatuhan Peraturan Data Global: Peraturan data yang berlaku di berbagai negara seperti GDPR di Uni Eropa dan CCPA di California, AS mempengaruhi cara perusahaan menyimpan dan memproses data. Keamanan cloud harus mematuhi peraturan ini.
+
 TES
 -	Isolasi Sumber Daya Cloud; mencegah serangan pivot VM ke VM.
 -	Periksa Masalah Penguncian; cegah terjebak dalam produk yang rentan.
