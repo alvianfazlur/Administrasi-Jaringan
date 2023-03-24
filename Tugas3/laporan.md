@@ -4,7 +4,6 @@ Mohamad Alvian (3121600032)
 </h2>
 
 
-#Setting IP di 2 Interface
 Mengecek apakah komputer sudah mendapatkan IP menggunakan perintah
 > ip a
 
