@@ -4,7 +4,7 @@ Mohamad Alvian (3121600032)
 </h2>
 
 
-Mengecek apakah komputer sudah mendapatkan IP menggunakan perintah
+Mengecek apakah komputer sudah mendapatkan IP menggunakan perintah dibawah ini
 > ip a
 
 ![IPCOM](https://github.com/alvianfazlur/Administrasi-Jaringan/blob/main/Tugas3/Foto/ipcom.jpg)
