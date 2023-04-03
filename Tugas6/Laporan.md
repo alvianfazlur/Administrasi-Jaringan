@@ -35,7 +35,7 @@ Untuk mememulai konfigurasi DNS menggunakan BIND 9 terlebih dahulu kita pindah k
 
 Selanjutnya kita buat file db.ip dengan cara melakukan copy dari file db.127. Copy juga file db.local dengan nama db.domain.
 
-![cp](https://github.com/alvianfazlur/Administrasi-Jaringan/blob/main/Tugas6/Foto/cp127%26domainfromlocal.jpg)
+![cp](https://github.com/alvianfazlur/Administrasi-Jaringan/blob/main/Tugas6/Foto/nano_db.domain.jpg)
 
 Setelah 2 file tersebut terbuat kita edit file db.domain terlebih dahulu. Menggunakan perintah
 >sudo nano db.domain
