@@ -63,4 +63,14 @@ Langkah terakhir kita harus lakukan restart service BIND 9 agar melakukan load k
 
 ![stats](https://github.com/alvianfazlur/Administrasi-Jaringan/blob/main/Tugas6/Foto/stats_bind9.jpg)
 
+### Testing
 
+menambahkan Alamat IP nameserver ke host resolver. Nameserver utama harus dikonfigurasi seperti halnya host lain untuk memeriksa ulang berbagai hal. Buka DNS client untuk mengetahui detail tentang cara menambahkan alamat nameserver ke network client. Edit nameserver dan parameter untuk domain pada file. Menggunakan perintah
+
+> sudo nano /etc/resolv.conf 
+
+![resolv](https://github.com/alvianfazlur/Administrasi-Jaringan/blob/main/Tugas6/Foto/nano_resolv.conf.jpg)
+
+Setelah resolv.conf diedit, selanjutnya melakukan testing apakah dns server berhasil berjalan atau tidak.
+
+![test](https://github.com/alvianfazlur/Administrasi-Jaringan/blob/main/Tugas6/Foto/testing.jpg)
