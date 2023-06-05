@@ -140,3 +140,7 @@ Kemudian edit apache config untuk menambahkan konfigurasi tambahan dari roundcub
 sudo nano /etc/apache2/apache2.conf
 ```
 
+Melakukan Testing Mail Server
+
+Lakukan Test untuk membuka mail server
+![](Foto/testing.png)
