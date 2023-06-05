@@ -30,5 +30,6 @@ Menjalankan Project Laravel di client, menggunakan perintah
 ```sh
 php artisan serve --host={ip address client} --port=8000
 ```
-Sehingga, web server bisa diakses oleh komputer jaringan lain menggunakan ip address client.
-![tampilan laravel]()
+Sehingga, web server bisa diakses oleh komputer jaringan lain menggunakan ip address client. Tampilan web laravel adalah seperti berikut
+
+![tampilan laravel](https://github.com/alvianfazlur/Administrasi-Jaringan/blob/main/Tugas9%20-%20Menjalankan%20Web%20Laravel/Foto/Screenshot%20(92).png)
