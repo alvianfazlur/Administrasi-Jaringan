@@ -8,6 +8,7 @@ apt install postfix dovecot-imapd dovecot-pop3d
 ```
 
 Kemudian Konfigurasi Postfix, setelah instalasi selesai akan muncul message box, kemudian pilih internet site agar komunikasi email menggunakan SMTP secara langsung
+
 ![](Foto/postfix.png)
 
 Selanjutnya masukkan nama domain email yang akan digunakan
